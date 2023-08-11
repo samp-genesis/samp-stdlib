@@ -1,5 +1,5 @@
 {
-    "user": "sampctl",
+    "user": "samp-genesis",
     "repo": "samp-stdlib",
-    "dependencies": ["pawn-lang/pawn-stdlib"]
+    "dependencies": ["samp-genesis/pawn-stdlib"]
 }
